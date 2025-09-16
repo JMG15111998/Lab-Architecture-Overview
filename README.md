@@ -5,6 +5,7 @@ Shared cyber-range lab: Azure VMs + Tenable vulnerability scanning + Defender ED
 In this project, we explore a **shared cyber range lab** built on Microsoft Azure, Tenable Vulnerability Management, and Microsoft Defender for Endpoint (EDR). It’s designed to simulate **real-world attacks** (plus internal simulated ones), so students can practice threat hunting, vulnerability scanning, and incident response — in an environment that actually feels like a real network.
 
 ---
+<img width="707" height="431" alt="Screenshot 2025-09-15 202945" src="https://github.com/user-attachments/assets/b0c15467-6203-4d6f-bb75-0c5c43c30913" />
 
 ## 🧱 Architecture Overview
 

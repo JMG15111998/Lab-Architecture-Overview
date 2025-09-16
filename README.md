@@ -184,17 +184,3 @@ After completing this lab, you’ll have:
 - Confidence working with an EDR platform  
 - A foundation for tools like CrowdStrike, Rapid7, or AWS-native security tools
 
-You’ll walk away with real skills — not just theory.
-
----
-
-Check out [Access Instructions](#requesting-access) to get started.
-
----
-
-Visual Placeholder Suggestion
-
-Want it to look like your other polished repos? Drop in placeholders like:
-
-```md
-![Architecture Diagram](images/architecture.png)
